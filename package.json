@@ -1,0 +1,24 @@
+{
+  "name": "cezve.js",
+  "version": "0.0.0",
+  "description": "Global pseudo-property macros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/osuushi/cezve.js.git"
+  },
+  "keywords": [
+    "macro",
+    "preprocess",
+    "meta-programming",
+    "sugar"
+  ],
+  "author": "Spencer Cohen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osuushi/cezve.js/issues"
+  }
+}
