@@ -20,5 +20,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/osuushi/cezve.js/issues"
+  },
+  "dependencies": {
+    "recast": "~0.9.11"
   }
 }
